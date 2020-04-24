@@ -1,4 +1,4 @@
-package com.mouhsinbourqaiba.android.bakingapp.view;
+package com.mouhsinbourqaiba.android.bakingapp.workflow;
 
 import androidx.appcompat.app.AppCompatActivity;
 
